@@ -5,7 +5,7 @@ This repository is for the DTSA 5510 Unsupervised Learning course's final projec
 
 The data comes from the Kaggle dataset [Animals](https://www.kaggle.com/datasets/antobenedetti/animals/data), which contains about 15k pictures of animals in five categories: cats, dogs, elephants, horses, and lions. The training set consists of 13,474 images including .jpg, .jpeg, .png files, while the validation set contains 1,497 images.
 
-This notebook covers EDA, Data Cleaning, Feature Extraction(color histogram, grayscale texture, VGG16), Dimension Reduction (using PCA and t-SNE), Modeling (with K-means, Agglomerative Clustering; and k-NN, SVM), and Tuning (Grid Search, Baysian Optimization). Metrics used include accuracy, f1 score and confusion matrix.
+This notebook covers EDA, Data Cleaning, Feature Extraction(color histogram, grayscale texture, VGG16), Modeling (with K-means, Agglomerative Clustering; and k-NN, SVM), Dimension Reduction (using PCA and t-SNE), and Tuning (Grid Search, Baysian Optimization). Metrics used include accuracy, f1 score and confusion matrix.
 
 <br/>
 
