@@ -1,9 +1,7 @@
-UC Boulder MSDS course work
-
-DTSA-5510 Unsupervised Algorithms in Machine Learning
+CU Boulder MSDS DTSA-5510 Unsupervised Algorithms in Machine Learning
 
 
-# Project: Animal Images Classification
+# Animal Images Classification
 ---
 
 This repository is for the DTSA 5510 Unsupervised Learning course's final project. It applies unsupervised learning methods to image recognition problems and compares them with supervised learning methods.
